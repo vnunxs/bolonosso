@@ -1,6 +1,8 @@
 import React from 'react';
+import Slider from 'react-slick';
 import './LoginForm.css';
-import { FaUser , FaLock} from "react-icons/fa";
+import 'slick-carousel/slick/slick-theme.css';
+
 
 
 const LoginForm = () => {
